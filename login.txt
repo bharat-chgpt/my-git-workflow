@@ -7,3 +7,5 @@ This is a login feature 3 @feature-login.
 This is a login feature 4 @feature-login. 
 
 This is a login feature 5 @feature-login.
+
+This is a login feature 6 @feature-login.
